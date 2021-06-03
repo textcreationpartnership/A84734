@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An appeal to the present rulers in Englands Israel. Touching impious blasphemy against Jesus Christ God the son of late explicitely broached in a scrowl scribled by one William Farmer giving himself the title gent: as also, touching ignorance, and error implicitely, but indeed peremptorily by interrogation a concluding way of argument charged upon the same rulers in his frontispice [sic], or mock-title about a clause conteined in the Apostles Creed, and about the real truth of Jesus Christ. Wherein the appealant modestly, and humbly prayeth the same rulers to vindicate the honour of our blessed Saviour Jesus Christ from horrid impious blasphemy, and their own reputations, and knowledges from calumniation of error, and ignorance. Hereunto is annexed an advertisement to millenaries with a forcible argument framed by our Lord Christs own words against their opinion for his personal reign on earth 1000. years occasioned by the same scriblings of William Farmer. / By Ri. Foster schism. gent.</title>
+            <author>Foster, Richard, gent.</author>
+         </titleStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84734</idno><idno type="EEBO-CITATION">99865550</idno>
+  <idno type="VID">165618</idno>
+  <idno type="EEBO-PROQUEST">2240917463</idno>
+  
+            <idno type="STC">Wing F1628</idno>
+            <idno type="STC">Thomason E600_8</idno>
+            <idno type="STC">ESTC R206390</idno>
+            <idno type="PROQUEST">99865550</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865550e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84734)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165618)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E600[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An appeal to the present rulers in Englands Israel. Touching impious blasphemy against Jesus Christ God the son of late explicitely broached in a scrowl scribled by one William Farmer giving himself the title gent: as also, touching ignorance, and error implicitely, but indeed peremptorily by interrogation a concluding way of argument charged upon the same rulers in his frontispice [sic], or mock-title about a clause conteined in the Apostles Creed, and about the real truth of Jesus Christ. Wherein the appealant modestly, and humbly prayeth the same rulers to vindicate the honour of our blessed Saviour Jesus Christ from horrid impious blasphemy, and their own reputations, and knowledges from calumniation of error, and ignorance. Hereunto is annexed an advertisement to millenaries with a forcible argument framed by our Lord Christs own words against their opinion for his personal reign on earth 1000. years occasioned by the same scriblings of William Farmer. / By Ri. Foster schism. gent.</title>
+                  <author>Foster, Richard, gent.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Charles Sumptner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 9.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jesus Christ --  Early works to 1800.</term>
+               <term type="personal_name">Farmer, William, fl. 1587-1614 --  Early works to 1800.</term>
+               <term type="topical_term">Blasphemy --  Early works to 1800.</term>
+               <term type="topical_term">Millenialism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165618:1"/>
+            <p>AN APPEAL To the present Rulers in ENGLANDS ISRAEL.</p>
+            <p>Touching Impious blasphemy against Jesus Christ God the son of late explicitely broached in a Scrowl scribled by one <hi>William Far<g ref="char:EOLhyphen"/>mer</hi> giving himself the title Gent: <hi>AS ALSO,</hi>
+            </p>
+            <p>Touching Ignorance, and Error implicitely, but indeed peremptorily by interrogation a concluding way of Ar<g ref="char:EOLhyphen"/>gument charged upon the same Rulers in his Fronti<g ref="char:EOLhyphen"/>spice, or Mock-title about a Clause conteined in the Apostles Creed, and about the real truth of JESUS CHRIST.</p>
+            <p>Wherein the Appealant modestly, and humbly prayeth the same Rulers to vindicate the honour of our blessed Saviour Jesus Christ from horrid impious blaphemy, and their own Reputations, and knowledges from ca<g ref="char:EOLhyphen"/>lumniation of Error, and Ignorance.</p>
+            <p>Hereunto is annexed an Advertisement to <hi>Millenaries</hi> with a forcible Argument framed by our Lord Christs own words against their opinion for his personal reign on Earth 1000. years occasioned by the same scriblings of <hi>WILLIAM FARMER.</hi>
+            </p>
+            <p>
+               <hi>By</hi> Ri. Foster Schism. <hi>Gent.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> [Printed for <hi>Charles Sumptner</hi> in the year 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165618:2"/>
+            <pb n="3" facs="tcp:165618:2"/>
+            <head>AN APPEAL To the present Rulers in ENGLANDS ISRAEL.</head>
+            <p>
+               <seg rend="decorInit">M</seg>EN, Fathers, and Brethren, this Appeal is presented unto yee from him, who thereby out of his duty to <hi>God,</hi> and love to his Coun<g ref="char:EOLhyphen"/>try with a vehement, and fervent desire en<g ref="char:EOLhyphen"/>devoureth to vindicate aswell the honour, and truth of God, and his word from un<g ref="char:EOLhyphen"/>heard of impious blasphemy, which ignorantly, and impu<g ref="char:EOLhyphen"/>dently (my charity will not permit me to say maliciously in contempt of God) a certain Scribler one <hi>William Farmer</hi> blattereth out against the divine essence of the second person of the Trinity of the <hi>Godhead,</hi> as also your judgements, and knowledges from errour, and ignorance, which he boldly chargeth upon yee out of his simple, but pragmatical igno<g ref="char:EOLhyphen"/>rance, because (as may appeare by venting such stuff) he would get himselfe a name, and be esteemed some body in this new quicksilver age, I suppose that your wisdomes will be better pleased with those compellations, which <hi>Paul</hi> used to the <hi>Jewes,</hi> and to their high Priests, and Councel, when he made defence for his life, and Doctrine, the Doctrine of Christ, than with any turgent titles, and compellations. I therefore so ap<g ref="char:EOLhyphen"/>peal,
+<pb n="4" facs="tcp:165618:3"/> and apply my self to yee, as he did to the <hi>Iewes,</hi> their high Priests, Councel, and Governors, when he had been violently handled, and beaten by the <hi>Iewes,</hi> and was accused before their Rulers. Your Appealant conceiveth, because this scrowl of <hi>William Farmers</hi> in the Frontispice thereof standing for a title is no title, nor doth promise the learned, and judicious, that there is any solidity in the body thereof, and therefore giveth them no encouragement to view, peruse, and castigate it, that it passeth uncontrouled; for <hi>aquila non capit muscas,</hi> they not apprehending it worthy answer, or confutation; and therefore hath presumed to acquaint yee therewith, that ye may apply speedy and wholsome remedies to this infectious and spreading gangreen. And he hath good cause to suspect that this scribler hath an itching desire to cor<g ref="char:EOLhyphen"/>rupt others with his own errors, and blasphemy, and to scat<g ref="char:EOLhyphen"/>ter his reproaches and calumnations against yee, because in the foot of his mock-title, he pretendeth hearty desires for the manifestation of the truths of God, and Jesus Christ, and the utter extirpation of the errours of men, (though none more manifest than his own even in this blasphemy) and distribut<g ref="char:EOLhyphen"/>eth his scrowls with his own hand to women, who are ma<g ref="char:EOLhyphen"/>ny of them easily entangled with such birdlime. For by that means only they came to my view.</p>
+            <p>He saith in his first clause that <hi>the Church of England doth allow of, and acknowledge three Creeds,</hi> and that <hi>the now Assembly of Divines have adheringly ratified, con<g ref="char:EOLhyphen"/>firmed, and manifested them all,</hi> wherefore he calleth that <hi>Doctrine</hi> the <hi>article of Christs descension into hell, hellish, Antichristian; Romish, an erroneous, and diabolicall Do<g ref="char:EOLhyphen"/>ctrine.</hi> See the beginning of his sixth partition in his second page, where he saith, that it ariseth from the misinterpretation of the words of the Apostle <hi>Peter</hi> by him there rehearsed.</p>
+            <p>But why doth he take upon him to expound those words of <hi>Peter</hi> (1 of <hi>Peter oa.</hi> 3. <hi>ver.</hi> 18.) like a blind Doctor not discerning the circumstance of time, when it was Christs spirit, which was yesterday, is to day, and the same for ever, preached to the spirits, that were in prison, which were in times
+<pb n="5" facs="tcp:165618:3"/> passed disobedient, when once the long-suffering of God abode. If he had had but half an eye of spiritual understanding, he might have seen <hi>(once)</hi> annexed to <hi>(when)</hi> and that both <hi>(once and when)</hi> have manifest relation to a more perspicuous evidence of time, <hi>viz.</hi> in the dayes of <hi>Noe</hi> while the ark was preparing. If his Doctorship had had a moderate spirit, be<g ref="char:EOLhyphen"/>fore he had published such stuff, he would have consulted with some of our modern Divines, of whom the most learn<g ref="char:EOLhyphen"/>ed would have given him this same very sence as before, and that Christ was then, and from eternity quickned in spirit, which I fear, he either forgot, or did not know, and that he did never read those Scriptures shortly following strong arguments for that article of the Creed, which he both cavilleth at, and also confesseth. If he hath read them, either he doth not un<g ref="char:EOLhyphen"/>derstand them, or else he hath a weak memory. And why then notwithstanding his own exposition, and the concurrence of our modern Divines in substance doth he belch out against yee such virulent, uncharitable, and (as I may say) unchristian words, as <hi>hellish, Antichristian, Romish, Diabolicall,</hi> since he himself about ten lines before in the top of his second page saith that <hi>the humane body of Christ was laid in the grave, that was in hell: because the grave is the dead bodies hell, and the grave is called hell in divers Scriptures, and so is the Nicene Creed to be understood,</hi> And if ye so understand it as I suppose ye do, hath not this Scribler most scandalously abused ye all? Vindicate therefore your selves yee rulers of <hi>Eng<g ref="char:EOLhyphen"/>lands Israel,</hi> and the divine truth, and your knowledges thereof from the aspersions, and corruptions of such illiterate, mechanical, impudent, bold bayards, who pervert the Scri<g ref="char:EOLhyphen"/>ptures. I beseech ye also shew him how to reconcile his own carnall reason, and assertion in his fourth partition of his first page, where without authority of Scripture he saith speaking of Christ, <hi>when his God-head was departed from his man<g ref="char:EOLhyphen"/>hood he had finished and fulfilled all Scripture as a sufferer, because he was a perfect Christ no longer then he was God and man, no more than a dead man is a perfect man.</hi> Let him produce Scripture to prove that he was not at any time a
+<pb n="6" facs="tcp:165618:4"/> perfect Christ, and not God and man at all times, and that his. God-head forsook and departed from his man-hood, I wil crave pardon of him in that I have called him scribler and blas<g ref="char:EOLhyphen"/>phemer. But because I hope to be saved by the incarnation, passion, death, burial, and resurrection of the second person in the Trinity, without belief of which I cannot be saved, I say, as I wish himself <hi>William Farmer</hi> to say, Lord, I be<g ref="char:EOLhyphen"/>lieve, Lord help mine unbelief. For man alone by all those could not have satisfied Gods wrath against mans sin. I be<g ref="char:EOLhyphen"/>seech yee therefore urge these Scriptures following unto him, and let him contradict them by Scripture, if he mean to make his assertion good, which he can no more do, (let me use his own words) than he can make a dead man a perfect man: <hi>videli<g ref="char:EOLhyphen"/>cet, Psalm</hi> 16, <hi>v.</hi> 10. Thou wilt not leave my soul in grave, neither wilt thou suffer thine holy one to see corruption. Was that holy one only the human flesh? was that soul the human body? Can that soul be said not to be left in grave, which never came there? and <hi>Isatah ca.</hi> 53. where there is matter enough conteined to convince him, and principally the 10. verse in these words, <hi>videlicet;</hi> When he shal make his soul an offering for sin, and 9. vers, he made his grave with the wicked, confirmed in the <hi>Acts, ca.</hi> 2. <hi>v.</hi> 27. 31. and <hi>Ephes. ca.</hi> 4. <hi>v.</hi> 9. in these words, <hi>videlicet;</hi> Now in that he ascend<g ref="char:EOLhyphen"/>ed, what is it but that he also descended into the lowest parts of the earth? further in the 8. <hi>ca:</hi> of <hi>Iohn, v.</hi> 16. I am not alone, but I and the Father, that sent me, and <hi>v.</hi> 29. For he that sent me, is with me, the Father hath not left me alone, together with that of <hi>Peter</hi> 1 Epistle, 3. ca. 18. ver. which he himself citeth in his second page <hi>viz.</hi> being put to death in the flesh, but quickned in the Spirit. Dare any man, that hopeth to be saved by his death then say that the God-head and the Holy Ghost departed from him? (Lord let us not be carnally led by naturall reason to fancy a separation of thy <hi>Godhead</hi> from thy manhood contrary t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thy word, lest thou by thy word cast us into that eternal grave, which thou for us by thy death hast vanquished.)</p>
+            <p>Those texts of <hi>Luke</hi> 23. 42, 43. where Christ answered
+<pb n="7" facs="tcp:165618:4"/> the thiefs prayer (who said unto him on the Cross, Lord re<g ref="char:EOLhyphen"/>member me when thou comest into thy Kingdom) saying, this day shalt thou be with me in Paradise, make nothing for the departure of the <hi>Godhead</hi> of Christ from his human body, except he mean to take away the ubiquity of the Deity, and make it then not infinite, and incomprehensible, but circum<g ref="char:EOLhyphen"/>scriptible as a human body.</p>
+            <p>Besides these his absurdities, manifest contradictions, nonsence, and arrogant presumption to make his own assertions with<g ref="char:EOLhyphen"/>out warrant of Scripture in his own opinion as authentick as an Oracle, as he doth in the third page of his first scrowl, and pretended positive Doctrine, that <hi>Christ did not descend in<g ref="char:EOLhyphen"/>to hel,</hi> which appeareth in these words? where he saith, that <hi>the Romish Doctors, and their antichristian diabolical doctrine with their false interpretations is confuted,</hi> when he hath produced no argument real, or effectual; but his own dogmatical assertion that <hi>Peters</hi> words are to be inter<g ref="char:EOLhyphen"/>preted, and understood as he fancieth urging no reason at al, but <hi>(thus).</hi> There is a third more gross and impious blas<g ref="char:EOLhyphen"/>phemy conteined in his second Section, in which he saith that <hi>Jesus Christ shal reign</hi> 1000 <hi>years on earth.</hi> In the two last lines of the sixth page, and the first five lines of the se<g ref="char:EOLhyphen"/>venth page thereof he hath these words following; <hi>videlicet, therefore Jesus Christ, though the Son of God by the love of God to the world must take upon him sinful flesh, that thereby he might redeem man from the sins of the flesh under which work of redemption Jesus Christ though perfect God as wel as perfect man during the time of his mortal flesh, which he did receive from the Virgin, must be, and was subject to the principalities, and powers of this world, even to the devil himself, and his instrumental members.</hi>
+            </p>
+            <p>I beseech yee, since he there confesseth that Jesus Christ was perfect God, ask him five Questions.</p>
+            <p n="1">1. Whether he being perfect God was mortal, or took up<g ref="char:EOLhyphen"/>on him sinful flesh?</p>
+            <p n="2">2. Whether mortal, and sinful flesh payed a satisfactory
+<pb n="8" facs="tcp:165618:5"/> ransome for the redemption of man from the bondage of sin, and pacification of Gods wrath against sin?</p>
+            <p n="3">3. Whether he received his flesh from the Virgin, or the ho<g ref="char:EOLhyphen"/>ly Ghost, whether the Virgin conceived him, or the holy Ghost?</p>
+            <p n="4">4. Whether God was, or can be subject to the Devil?</p>
+            <p n="5">5. What is the ful sense, and signification of the word, subject? for there he affirmeth that Jesus Christ being per<g ref="char:EOLhyphen"/>fect God was subject to the Devil.</p>
+            <p>Touching the devils tempting Christ, <hi>Lukes</hi> fourth chap. first vers, and 14. wil take away al scruples. Give me leave also to lay before yee and him certain Scriptures, which wil sufficiently evince him of ignorance, and blasphemy, and be<g ref="char:EOLhyphen"/>ing collected together will help your memories to charge him therewith.</p>
+            <p>Touching the first, that Jesus Christ was not mortal, nor took upon him sinful flesh, but was of the same essence, eter<g ref="char:EOLhyphen"/>nal, and coequall with God the Father. <hi>Gen. cap:</hi> 1. <hi>v.</hi> 26. Let us make man according to our own image.</p>
+            <p>
+               <hi>Gen.</hi> 3. 15. I wil put enmity between thee and the wo<g ref="char:EOLhyphen"/>man, and between thy seed, and her seed; He shal break thine head, and thou shalt bruise his heel.</p>
+            <p>
+               <hi>Isaiah ca:</hi> 53. <hi>v.</hi> 9. And he made his grave with the wicked, and with the rich in his death, though he had done no wickednes, neither was any deceit in his mouth.</p>
+            <p>1 <hi>Peter ca:</hi> 2. <hi>v.</hi> 22. Who did no sin neither was any guile found in his mouth.</p>
+            <p>1 <hi>Iohn ca:</hi> 3. <hi>v.</hi> 5. And we know that he appeared, that he might take away our sins, and in him is no sin.</p>
+            <p>1 <hi>Timothy ca:</hi> 6. <hi>v.</hi> 15, 16. The King of Kings, and Lord of Lords only hath immortality. &amp;c.</p>
+            <p>
+               <hi>John</hi> 1. 1, 2, 3, 14. In the beginning was the word, and the word was with God, and that word was God.</p>
+            <p>The same word was in the beginning with God.</p>
+            <p>Al things were made by it, and without it was nothing made, that was made.</p>
+            <p>—And the word was made flesh, and dwelt amongst us.</p>
+            <pb n="9" facs="tcp:165618:5"/>
+            <p>
+               <hi>Ephe.</hi> 1. 3, 4. Blessed bee God the father of our Lord Jesus Christ, whichhath blessed us with al spiritual blessings in heavenly things in Christ,</p>
+            <p>As heehath chosen us in him before the foundation of the world.</p>
+            <p>
+               <hi>John</hi> 8. 16. 19. Bee equally prevalent to prove immortality, and not separation.</p>
+            <p>
+               <hi>Col.</hi> 1. 16, 17. For by him were all things created, which are in heaven, and which are in earth, things visible, and in<g ref="char:EOLhyphen"/>visible, whether they be thrones, or dominions, principali<g ref="char:EOLhyphen"/>ties, or powers, all things were created by him, and for him.</p>
+            <p>
+               <hi>Mat.</hi> 3. 17. And loe a voice came from heaven, saying, This is my beloved son, in whom I am well pleased. and 17. 5. This is my beloved son, in whom I am well pleased. Con<g ref="char:EOLhyphen"/>firmed in <hi>Mark</hi> 1. 11. and in <hi>Luke</hi> 3. 22. and <hi>John</hi> 6. 69. and 20. 28. 31. <hi>Heb.</hi> 1. 3. Who being the brightness of his glory, and the ingraven form of his person, &amp;c. The precedent words (being the Son of God) sheweth that he is the ante<g ref="char:EOLhyphen"/>cedent to who.</p>
+            <p>
+               <hi>Rev.</hi> 1. 5. 8. 11. 17. Jesus Christ a faithfull witness, and the first begotten of the dead, and prince of the Kings of the earth, &amp;c.</p>
+            <p>I am Alpha and Omega, the beginning, and the ending saith the Lord, which is, and which was, and which is to come, even the Almighty, the first and the last.</p>
+            <p>Touching the second, that mortall and sinfull flesh did not redeem man from the bondage of sin, and pacify Gods wrath.</p>
+            <p>
+               <hi>Rom.</hi> 8. 32. Who spared not his own Son; but gave him for us all to death.</p>
+            <p>1 <hi>John</hi> 2. 1, 2. We have an advocate with the father Jesus Christ the just. And he is the reconciliation for our sins.</p>
+            <p>
+               <hi>Mat.</hi> 16. 16, 17. Then <hi>Simon Peter</hi> answered, and said, Thou art Christ the Son of the living God.</p>
+            <p>
+               <hi>And Jesus answered and said unto him, blessed art thou, Si<g ref="char:EOLhyphen"/>mon the Son of Jonah, for flesh and blood hath not revealed it</hi>
+               <pb n="10" facs="tcp:165618:6"/>
+               <hi>unto thee, but my Father which is in Heaven.</hi> John 3. 16, 17. <hi>For God so loved the world, that he hath given his only begot<g ref="char:EOLhyphen"/>ten Son, that whosoever believeth in him, should not perish, but have everlasting life. For God sent not his Son into the world, that he should condemn the world, but that the world through him might be saved:</hi> and 6. 69. John 10. 9. <hi>I am the doore, by me if any man enter, he shall be saved.</hi> and 11. 25. <hi>Jesus said unto her, I am the Resurrection and the life.</hi> and 14. 6. <hi>I am the way, the truth and the life, no man cometh unto the Father but by me.</hi> and 16. 23. <hi>Ʋerily I say unto you, whatsoever he shall aske the Father in my name, he shall give it you.</hi>
+            </p>
+            <p>Acts 20. 28.—<hi>To feed the Ghurch of God, which he hath purchased with his own blood:</hi> Rom. 3. 25, <hi>Whom God hath set forth to be a reconciliation through faith in his blood.</hi> and 5. 10. <hi>We were reconciled to God by the death of his Son.</hi> and 8. 32. 34, <hi>who spared not his own Son, but gave him for us all to death. Who is also at the right hand of God, and maketh re<g ref="char:EOLhyphen"/>quest for us.</hi> 2. Cor. 5. 19. <hi>For God was in Christ, and recon<g ref="char:EOLhyphen"/>ciled the world to himselfe.</hi>
+            </p>
+            <p>Col. 1. 14, 15, 16, 17. <hi>In whom we have redemption through his blood, that is, the forgivenesse of sins.</hi>
+            </p>
+            <p>1. Tim. 2. 5, 6. <hi>For there is one God, and mediator between God and man, which is the man Jesus Christ—Who gave himselfe for all men.</hi>
+            </p>
+            <p>Touching the third, that our blessed Saviour J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sus Christ was conceived by the Holy Ghost, not by the Virgin, nor did receive sinfull and mortall fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sh from the Virgin, how<g ref="char:EOLhyphen"/>soever it was humane flesh. <hi>Is<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 7. 14. <hi>Behold a Virgin shall conceive and beare a son, and shee shall call his name</hi> Immanuel.</p>
+            <p>
+               <hi>Jer.</hi> 31. 22. <hi>How long wilt thou goe astray, O rebellious daughter? for the Lord hath created a new thing in the earth; a woman shall compass a man.</hi>
+            </p>
+            <p>
+               <hi>Mat.</hi> 1. 18. <hi>Now the birth of Jesus Christ was thus; When as his mother</hi> Mary <hi>was betrothed to Joseph, before they came to<g ref="char:EOLhyphen"/>gether, shee was found with child of the Holy Ghost.</hi> and 20. v. <hi>That which is conceived in her, is of the Holy Ghost.</hi> and 23. v.
+<pb n="11" facs="tcp:165618:6"/>
+               <hi>Behold a virgin shall be with Child, and shall beare a Son, and they shall call his name</hi> Immanuel, <hi>which is by interpretation, God with us.</hi>
+            </p>
+            <p>
+               <hi>Luke</hi> 1. 26. to 29. Where amongst the rest in the 34, and 35. are these words, viz. <hi>Then Mary said unto the Angell, how shall this be, seeing I know not a man? And the Angel an<g ref="char:EOLhyphen"/>wered and said unto her, The Holy Ghost shall come upon thee, and the power of the most high shall overshadow thee, therefore also that holy thing, which shall be born of thee, shall be called the Son of God,</hi>
+            </p>
+            <p>
+               <hi>Gal.</hi> 4. 4. <hi>But when the fullnesse of time was come, God sent forth his Son made of a woman, and made under the Law.</hi>
+            </p>
+            <p>Touching the fourth, although this dogmaticall <hi>Rabbi,</hi> besides by his own confession, is sufficiently convinced touching all the first foure queries, yet I beseech yee, let it not be tedious to read a few more for the fuller satisfaction of weake capacities, for whose sakes in part the appealant hath undergone this task, though principally for the glory of God, whereby it may evidently appeare that Jesus Christ because perfect God, was not, nor could be subject to the Devill.</p>
+            <p>
+               <hi>Isaiah</hi> 9. 6, 7. For unto us a child is borne, and unto us a Son is given, and the government is upon his shoulder, and hee shall call his name Wonderful, Counceller, the Mighty God, the everlasting Father, the Prince of peace, the increas of his government, and peace shall have none end. Hee shal sit upon the Throne of <hi>David,</hi> and upon his kingdome to order it, and to establish it with judgement, and with justice from henceforth even for ever; the Zeal of the Lord of Hosts wil perform this.</p>
+            <p>
+               <hi>Isaiah</hi> 25. 8. He wil destroy death for ever, &amp;c. <hi>Hosea</hi> 13. 14. I will redeem them from the power of the grave, I wil deliver them from death: O death, I wil bee thy death, O grave, I wil be thy destruction. This is confirmed by the A<g ref="char:EOLhyphen"/>postle <hi>Paul</hi> 1 <hi>Cor.</hi> 15. 54, 55, 56, 57.</p>
+            <p>
+               <hi>Micah</hi> 5. 2. And thou Bethlehem Ephrathah art little to bee among the thousands of Israel, yet out of thee hee shal come
+<pb n="12" facs="tcp:165618:7"/> forth unto mee, that shal be ruler in Israel, whose goings forth have been from the beginning, and from everlasting.</p>
+            <p>
+               <hi>Lukes.</hi> 33. And hee shal reign over the house of Jacob for ever, and of his Kingdom shal bee none end.</p>
+            <p>
+               <hi>John</hi> 3. 35. The Father loveth the Son, and hath given al things into his hands. and 17. 3. This is life eternal, that they know thee to bee the only very God, and whom thou hast sent, Jesus Christ.</p>
+            <p>1 <hi>Gor.</hi> 15. 25: For hee must reign til hee hath put al things under his feet.</p>
+            <p>
+               <hi>Col.</hi> 1. 15. Who is the image of the invisible God, the first born of every creature. 16. ver. For by him were al things created, which are in heaven, and which are in earth, things visible, and invisible, whether they bee thrones, or domini<g ref="char:EOLhyphen"/>ons, or principalities, or powers, al things were created by him, and for him, 17. ver. and hee is before al things, and in him al things consist. 19. ver. It pleased the father, that in him should al fulnes dwel. And <hi>Col.</hi> 2. 9. For in him dwelleth al the fulnes of the Godhead bodily.</p>
+            <p>
+               <hi>Phi.</hi> 2. 6, 7, 8. Who beeing in the form of God thought it no robbery to bee equal with God. But hee made himself of no reputation, and took on him the form of a servant, and was made like unto men, and was found in shape as a man. He humbled himself, and became obedient unto the death, even the death of the cross.</p>
+            <p>2 <hi>Tim.</hi> 1. 10. But is now made manifest by the appearing of our faviour Jesus Christ, who hath abolished death, and hath brought life and immortality to light through the Gospel.</p>
+            <p>
+               <hi>Heb.</hi> 2. 8. 14. Thou hast put al things in subjection under his feet, and in that hee hath put al things in subjection under him, hee left nothing, that should not be subject unto him.</p>
+            <p>Forasmuch as the children were partakers of flesh, and blood, he also himself likewise took part with them, that he might destroy through death him, that had the power there<g ref="char:EOLhyphen"/>of, that is, the devil.</p>
+            <p>
+               <hi>Rev.</hi> 7. 17. For the Lamb, which is in the midst of the
+<pb n="13" facs="tcp:165618:7"/> throne, shal govern them, and shal lead them unto the live<g ref="char:EOLhyphen"/>ly fountains of waters, and God shal wipe away al teares from their eies.</p>
+            <p>And the 19. 13. Hee was clothed with a garment dipped in blood, and his name is called the <hi>word of God.</hi> and 16. <hi>v.</hi> H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hath upon his garment, and upon his thigh a name written, The King of Kings, and Lord of Lords.</p>
+            <p>
+               <hi>Proverbs</hi> 8. 22, 23. The Lord hath possessed mee in the be<g ref="char:EOLhyphen"/>ginning of his way; I was before his works of old. I was set up from everlasting, from the beginning, and before the earth. and so to the 32 <hi>vers.</hi>
+            </p>
+            <p>Touching the fifth, that is the signification of the word <hi>(subject),</hi> it may evidently appear that this blasphemer knoweth it not, which hee might have learned of a schoole<g ref="char:EOLhyphen"/>boy understanding the verb, and preposition, that <hi>iacior</hi> sig<g ref="char:EOLhyphen"/>nifieth to bee cast or laid, and that <hi>sub</hi> signifieth under, and therefore <hi>(subject)</hi> which is compounded, and derived from those two words must of necessity signify <hi>(cast, or laidvnder).</hi>
+            </p>
+            <p>If these 5. queries bee wel examined by the texts of scri<g ref="char:EOLhyphen"/>ptures aforementioned severally relating to each, and in some measure joyntly to al, is it not then contumacious, and im<g ref="char:EOLhyphen"/>pious blasphemy to write, or say, that the wonderful, coun<g ref="char:EOLhyphen"/>seller, mighty God, everlasting father, Prince of peace (whom the winds, and sea obeyed, whose word the devill, and devills obeyed, and at his commande<g ref="char:EOLhyphen"/>ment departed, and asked leave of him even to enter into swine, and by whom, and for whom al principalities, and powers were created, who is yesterday, today, and the same for ever) took upon him sinful flesh, and received mortal flesh from the virgin, and was subject to principali<g ref="char:EOLhyphen"/>ties and powers, even to the devil himself, and that there was a time of his mortal flesh, &amp; nonage, &amp; that there is now an interregnum in his dominion, and government, and that the devill hath now his kingdome in the world? Neverthe<g ref="char:EOLhyphen"/>less so doth <hi>William Farmer</hi> write in his 7. page.</p>
+            <p>And is not this as great an error, even as arrogant pre<g ref="char:EOLhyphen"/>sumption as ever was, to undertake to lay open the real truth
+<pb n="14" facs="tcp:165618:8"/> of Jesus Christ in such fustian, Linsey-wolsey termes, ful of contradictions, without sense, coherence, or probable argu<g ref="char:EOLhyphen"/>ment either theological, logical, scholastical, or rational inference, but meerly supposititious, and selfishly dogmati<g ref="char:EOLhyphen"/>cal? al this may appear by his own words in the 4. line up<g ref="char:EOLhyphen"/>wards in the 16. page, and the 1. and 2. lines of the 17. page. Sometimes he confesseth that, which he calleth error and ig<g ref="char:EOLhyphen"/>norance in yee the rulers of Englands Israel, as may appear by the last line in the 2. page with retrospection to the three first precedent lines in the same partition. So in many other of his lines he contradicteth himselfe as may appeare in the foot of his sixth page, where by allusion to <hi>Cain</hi> son to <hi>Adam</hi> and <hi>Eve</hi> with a learned inference he concludeth thus; <hi>therefore, and thereby is Jesus Christ only and alone known to be the Son of God, because he was not con<g ref="char:EOLhyphen"/>ceived by the sinfull and lustfull seed of man:</hi> but as he confess<g ref="char:EOLhyphen"/>eth, the text saith, <hi>he was, and none but he was conceived by the Holy Ghost, and born of the Virgin Mary</hi> (whom there he calleth) <hi>a virgin, because with child,</hi> &amp;c. O Valid reason and well closed together! O learned Rabbie in our English <hi>Israel!</hi> How then received Jesus Christ mortall flesh from the virgin, when the Holy Ghost conceived? Yet in the two last lines of the same sixth page, and five lines in the 7 page, he saith that <hi>Jesus Christ though the Son of God, must take upon him sinfull flesh, &amp; though perfect God aswell as per<g ref="char:EOLhyphen"/>fect man during the time of his mortall flesh, which he did re<g ref="char:EOLhyphen"/>ceive from the virgin, must be, and was subject to Principali<g ref="char:EOLhyphen"/>ties and powers, even to the Devill himself, and all his wicked instrumentall members, saying, give unto Cesar that which is Cesars; for my Kingdome is not of this world during the prin<g ref="char:EOLhyphen"/>cipality of the Devill.</hi> (I beseech yee take notice of the word <hi>(saying)</hi> and judge of the coherence, and congruity, for grammaticall form, and sense of writing bringeth its refe<g ref="char:EOLhyphen"/>rence to the substantive went last before it, which is <hi>(mem<g ref="char:EOLhyphen"/>bers)</hi> or to <hi>(the Devill himself).</hi> In that 7. page, as also in many other places of his limitation of Christs Kingdome to 1000. yeares on earth, to possess, and enjoy which (as he in<g ref="char:EOLhyphen"/>tendeth) he is not yet descended from Heaven, he <hi>William</hi>
+               <pb n="15" facs="tcp:165618:8"/>
+               <hi>Farmer</hi> taketh upon him to make a fuller exposition of Christs words then their sense containeth, the words being full, and absolute, <hi>viz.</hi> My Kingdome is not of this world: but he by his paraphrase thereon, blasphemouslie addeth these, <hi>viz. during the principality of the devill,</hi> most abomina<g ref="char:EOLhyphen"/>bly presuming a defect in Christs expression, as not answer<g ref="char:EOLhyphen"/>able to his meaning, and plainly intendeth <hi>an interregnum of Christs Kingdome,</hi> and to make the <hi>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vill the present ruler on the earth.</hi> If this be sound and true theology, and orthodoxal, and if Christ have no kingdome on earth, is not this learned Rabbi of the devills kingdome, and not of Christs? If he be asked of what kingdome all the Apostles after the ascensi<g ref="char:EOLhyphen"/>on of Christ, and all the Martyrs in the primitive Church, and all our Martyrs of late yeares, who died for the testi<g ref="char:EOLhyphen"/>mony of Jesus, and the word of God, were, and himself is, what will he say, will he say that Christ after his ascension neither had, nor hath any kingdome on earth, untill his sup<g ref="char:EOLhyphen"/>posed time of 1666. comes? If he had consulted with the E<g ref="char:EOLhyphen"/>vangelist Luke <hi>Cap.</hi> 17. 20, 21. he would have shewed him where the kingdome of Christ hath been ever since, and ever shall be on earth.</p>
+            <p>These his absurdities, contradictions, incoherences, in<g ref="char:EOLhyphen"/>congruities, together with his arrogant presumption, igno<g ref="char:EOLhyphen"/>rant errors, improper, immateriall, frivolous inferences, and abominable impious blasphemies have I poynted yee to for the ease of your own labors and that the weaker sort of capacities ungrounded in the fundamentals of Faith and Religion may be undeceived, and may be admonished to be<g ref="char:EOLhyphen"/>ware of such new dogmaticall doctrine, and damnable here<g ref="char:EOLhyphen"/>sies, in which many are too easily caught according to the prediction of <hi>Peter</hi> in his 2 Epistle 2. <hi>Cap.</hi> 1. 2 <hi>v.—There shall be false teachers among you, which privily shall bring in damnable heresies, even denying the Lord, that bought them, and bring upon themselves swift damnation. And many shall follow their damnable wayes, by whom the way of truth shall be evill spoken of.</hi>
+            </p>
+            <p>To the same purpose <hi>Jude v.</hi> 4. saith, <hi>There are certain men</hi>
+               <pb n="16" facs="tcp:165618:9"/>
+               <hi>cerpt in, which were before of old <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rdeined to this condemnation; u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>godly men they are, which turne the grace of God into wanton<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ss, and deny God the only Lord, and our Lord Jesus Christ.</hi> If this undertaker to discover real truths be not one of these false teachers, which <hi>Peter</hi> foretelleth of, and <hi>Jude</hi> charact<g ref="char:EOLhyphen"/>ereth, he is very like one of them, even as like as the Pope<g ref="char:EOLhyphen"/>dome is like the fourth beast, false Prophet, and the Anti<g ref="char:EOLhyphen"/>christ so much spoken of in the holy Scriptures. For by exte<g ref="char:EOLhyphen"/>nuation, limitation, restriction, or diminution he denieth the true essence, and everlasting power of the deity of our Lord and Saviour Jesus Christ, as may appeare by those holy Scriptures aforementioned, if they be laid against his scriblings.</p>
+            <p>He hath done only as some yong simple maid-servant often doth, being sent by her mistres into a plentifull garden a<g ref="char:EOLhyphen"/>bounding with all sorts of wholsome herbes fit, and vsefull for pleasant broath, and sweet herbs, and flowers unmeet, and unfit for the same, and not altogether cleare of hemlock, and worse, and more unwholsome weeds: she gathereth promiscuously of all, both herbs, flowers, and weeds; which being brought to her mistres, she cannot make use of any, untill she hath separated the herbs wholesome for pottage, from the redolent flowers, and stinking weedes. So this ma<g ref="char:EOLhyphen"/>nifester of reall truths, as he pretendeth himself in his mock-title page, hath gathered together out of the rich and boun<g ref="char:EOLhyphen"/>tifull word of God, some scriptures conducing to faith, and salvation, some to prophecy, foreshewing things to come not absolutely necessary to salvation, yet necssary to be believed if rightly understood: but amongst them he hath shufled in, and intermixed hemlock, and stinking weedes of non-sense, and his own fantastical imaginary suppositions, and conjoy<g ref="char:EOLhyphen"/>ned them with the Scripturs in as evil, and unsuitable a com<g ref="char:EOLhyphen"/>posnre; as if a garment of Velvet, Sattin, cloth of gold, or of sil<g ref="char:EOLhyphen"/>ver were sowed together with packthred fit for sacks; which he knoweth better how to handle, than he doth to handle Gods divine word.</p>
+            <p>If every particular of his grossfailings should be pursued
+<pb n="17" facs="tcp:165618:9"/> effectually, my appeal would swel into a volume too large both for the wisdom of these times, as also for the simple uncertain giddiness thereof. For few men affect solidity, but most men read only to please their own fancies. Besides the man would conjecture that I thought him worthy of an answer, which I utterly deny, and am much grieved that there is no restraint for such Pamphletters. If I should punctually answer him, I should write much to as smal purpose, as he hath done little to no purpose, save to spread his ignorance, error and blasphemy.</p>
+            <p>Our blessed Saviour warned his Disciples to be wise as ser<g ref="char:EOLhyphen"/>pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts, innocent as doves. Therefore doubtles policy is as lawfull and necessary for Christians as piety, so as it go hand in hand with piety. Policy without pie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y is seldome-times conversant in good, and just enterprises, and therefore not innocent, but nocent, and piety without christian policy oftentimes falleth into deadly snares, and extremities, and is without safety being not guided by wisdome. Wherefore out of zeal to the honor of God, and love to my own Nation, I humbly crave leave a little modestly to expostulate. Because although ye be vigilant, circumspect and diligent in calling men to account, and punishing them, who only in words do thwart your way of government, yet if ye be not as tender of the honor of God, and as carefull to prevent his dishonor, and to restrain the dishonorers, how can ye stand? for, ye know, God is a jealous God, his anger a consuming fire, by his grace and favor ye must stand, or by his frownes fall. That of <hi>Deuteronomy ca:</hi> 32. is worthy your consideration, where after God threatned the Israelites for their backsliding and abominations beginning at the 15 vers to the 26. God is mindfull of his mercy, and expresseth the same in the 26. 27, 28, 29. verses, and is grieved that they are a nation void of counsel, and without understanding, and wisheth that they would be wise and consider their latter end, and then promiseth them victory over the heathen. I for my part will perswade al men, as <hi>Gamaliel</hi> mentioned in the 5. <hi>ca:</hi> of the <hi>Acts</hi> did perswade the chief priests, the Councel, and the Sect of the <hi>Sadduces,</hi> who had laid hands on the Apostles, and put them in
+<pb n="18" facs="tcp:165618:10"/> prison, and I will say no more, but as he did, ye men of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> take heed what ye intend to do, &amp;c. For if this coun<g ref="char:EOLhyphen"/>sel, or this work be of men, it will come to nought, but if it be of God, it cannot be destroyed. I my self wil obey in tem<g ref="char:EOLhyphen"/>poral things, and in spirituall suffer if there be cause; for the salvation of my soul dependeth not on this, or that govern<g ref="char:EOLhyphen"/>ment, and we are al bound by the law of God to obey gover<g ref="char:EOLhyphen"/>nors. I have no warrant by Gods word to kill, or resist either for governments sake or my faiths, and religions sake. For the Prophet <hi>Habakkuk</hi> saith in his 2. <hi>ca:</hi> 4. <hi>v.</hi> Behold, he that lifteth up himself, his mind is not upright in him; but the just shal live by his faith. As I am confident that ye are sensible of the burden lying upon ye, so am I that ye are not insensible of the enmity bent against our Nation, and chiefly against ye both forrain and proximious, al <hi>Europe</hi> being enraged against ye, if not some other parts of the earth. And give me leave, I beseech ye, to advertise ye that ye are in greater peril thorough schism, and heresy, which unles restrained from its violent, rash, and headlong precipitancy wil not only distract this humorous giddy nation into a multitude of irreconciliable, unquenchable, fierie factions, but also provoke the wrath of God as grie<g ref="char:EOLhyphen"/>vously against ye, as the Israelites provoked him against them<g ref="char:EOLhyphen"/>selves by mixing with the idolatrous heathens, by learning their manners, customes, and idolatries; for so thorough Gods in<g ref="char:EOLhyphen"/>dignation ye shall become a prey to your enemies: The tongues, and pens of ignorant schismaticks wil give ye more and more deadly wounds than the swords of al your enemies, and al worldly enmity can give ye. Ought not learning then to be cherished, that it may minister grace and peace both in press, and pulpit? I doe not take upon me to direct, yet I humbly crave leave to bring to your remembrance for an example the actions, and carriage of good rulers Kings of Israel, who had special callings, and some of them extraordinary callings, as <hi>Joshua, David, Josiah, Asa, Jehoshaphat, Hezekiah,</hi> how tender and zealous they were of and for the honor of God, and to enquire into the causes of Gods wrath in their affliction, and to remove the causes, and causers thereof by removing idolatry,
+<pb n="19" facs="tcp:165618:10"/> breaking down the images, groves, and altars, and the like, as ppeareth <hi>Joshua ca:</hi> 24. <hi>v.</hi> 15. 25. that he made a cove<g ref="char:EOLhyphen"/>nant with God, and the people, to serve the holy God of Is<g ref="char:EOLhyphen"/>rael, and to that purpose gave the people an ordinance and a law in <hi>Shechem.</hi>
+            </p>
+            <p>The zeal of <hi>David</hi> is to be seen in 2 <hi>Samuel ca:</hi> 21. vers 1. to 10.</p>
+            <p>The zeal of <hi>Josiah.</hi> 2 <hi>Kings ca.</hi> 22. <hi>v.</hi> 11, 12, 13. and <hi>ca:</hi> 23. <hi>v.</hi> 1, 2, 3. and 2 <hi>Chron, ca:</hi> 34. <hi>v.</hi> 21. 30, 31, 32, 33.</p>
+            <p>The zeal of <hi>Asa.</hi> 1 <hi>Kings ca:</hi> 15. <hi>v.</hi> 11. 12, 13.</p>
+            <p>The zeal of <hi>Iehoshaphat,</hi> 2 <hi>Chron: ca:</hi> 17. <hi>v.</hi> 6, 7, 8, 9. and <hi>ca:</hi> 19. <hi>v.</hi> 4, 5, 6, 7, 8, 9, 10.</p>
+            <p>The zeal of <hi>Hezekiah,</hi> 2 <hi>Chron: ca,</hi> 29. <hi>v.</hi> 5, 6. 7, 8, 9. 10.</p>
+            <p>I humbly crave the same leave also to bring to your remem<g ref="char:EOLhyphen"/>brance the comminations of the Lord of Hosts against them that rest upon their policies, and the arm of flesh, and seek not to the holy one of Israel in extremities. <hi>Videlicet Isaiah</hi> 31. 1.</p>
+            <p>Wo unto them that go down to <hi>Egypt</hi> for help, and stay up<g ref="char:EOLhyphen"/>on horses, and trust in Chariots, because they are many, and in horsmen because they be very strong: but they look not to the holy one of Israel, nor seek unto the Lord, and <hi>Jeremiah ca:</hi> 34. <hi>ver.</hi> 15, 16, 17, 18, 20.</p>
+            <p>And ye were now turned, and had done right in my sight in proclaiming liberty, every man to his neighbor, and ye had made a covenant before me in the house whereupon my name is called.</p>
+            <p>But ye repented, and polluted my name: for ye have caused every man his servant, and every man his handmaid, whom ye had set at liberty at their pleasure, to return, and hold them in subjection to be unto ye as servants, and as handmaids.</p>
+            <p>Therefore thus saith the Lord, ye have not obeyed me in proclaming freedom every man to his brother, and every man to his neighbour: behold I proclame a liberty to you, saith the Lord, to the sword, to the pestilence, and to the famine, and
+<pb n="20" facs="tcp:165618:11"/> I wil make you a terror to al the Kingdoms of the earth. And I wil give those men, that have broken my covenant, and have not kept the words of the covenant, which they had made be<g ref="char:EOLhyphen"/>fore me, &amp;c.</p>
+            <p>I wil even give them into the hands of their enemies, and in<g ref="char:EOLhyphen"/>to the hands of them, that seek their life; and their dead bo<g ref="char:EOLhyphen"/>dies shall be meat unto the fowls of the heaven, and to the beasts of the field.</p>
+            <p>Since then no Church, no nation, no particular person can have protection but only from the Lord of hosts, under whose protection is assured safety, as the Prophet <hi>David</hi> saith <hi>Psalm.</hi> 91. <hi>v.</hi> 1. Whoso dwelleth in the secret of the most high shal abide in the shadow of the almighty; I wil conclude with <hi>Da<g ref="char:EOLhyphen"/>vids</hi> prayer for the Church in his 68. <hi>Psalm: ver.</hi> 1. 28, 29. 30.</p>
+            <p>Let God arise, and let his enemies be scattered! Thy God hath appointed thy strength, stablish o God that, which thou hast wrought in us, Out of thy temple upon Jerusalem, and Kings shal bring presents unto thee.</p>
+            <p>Destroy the company of the spear-men, and the multitude of the mighty bulls with the calves of the people, that tread under feet pieces of silver: scatter the people that delight in war.</p>
+            <p>
+               <hi>William Farmers</hi> paper is to be had at <hi>Iohn Hancocks</hi> shop in Popes-head alley.</p>
+         </div>
+         <div type="notice">
+            <head>An advertisement to men infected with the blasphemous Millenary schism, or he<g ref="char:EOLhyphen"/>resy, or rather abominable phantasie, or damnable phrensie.</head>
+            <p>MEn and brethren, if it once appeared unto ye, that ye could not hold the Millenary opinion without con<g ref="char:EOLhyphen"/>tempt of the words of Christ, and his gospel, or at least without annihilation, and making void the va<g ref="char:EOLhyphen"/>lidity, and power of many Scriptures, even Christs own words,
+<pb n="21" facs="tcp:165618:11"/> and without extenuation, limitation, restriction, or diminu<g ref="char:EOLhyphen"/>tion of the true, and eternal essence, and power of the Deity of our Lord Jesus Christ ye would hate, abhor, and abandon it, as one of those heresies of which sanct <hi>Peter</hi> foretold, and which sanct <hi>lude</hi> describeth as is before mentioned in this appeal.</p>
+            <p>I wil do my best endeavour that al this may appear unto ye by valid argument, both that the Millenary opinion doth al this and also that it doth wrest the Scriptures to its fantastical, phreneti<g ref="char:EOLhyphen"/>cal, and damnable suppositions, the same Scriptures, on which it is built, holding forth a clean contrary sense easily to be un<g ref="char:EOLhyphen"/>derstood by ordinary capacities. I will begin with a Syllogism thus.</p>
+            <p>Every man affirming, and maintaining that Christ shal per<g ref="char:EOLhyphen"/>sonally reign on earth in his human body perverteth, and anni<g ref="char:EOLhyphen"/>hilateth the Scriptures, even the words of Christ.</p>
+            <p>But every Milenary doth affirm, and maintain it. Therefore every Millenary perverteth, and ann ihilateth the Scriptures even the words of Christ.</p>
+            <p>If a Millenary deny the minor proposition, he denieth him<g ref="char:EOLhyphen"/>self, and dispute is ended.</p>
+            <p>The major being denyed must be proved by an instance in particulars, thus.</p>
+            <p>The words of Christ in the 17. of <hi>Iohns</hi> gospel, are these, <hi>vers</hi> 11.</p>
+            <p>
+               <hi>Now I am no more in the world,</hi> and in the 18. <hi>cap.</hi> thereof, <hi>vers</hi> 36.</p>
+            <p>
+               <hi>My kingdome is not of this world;</hi> and again,</p>
+            <p>
+               <hi>My kingdome is not from hence.</hi>
+            </p>
+            <p>But the Millenaries affirm, and maintain that Christ shal be more in the world, and that his Kingdom shal be in this world, and from hence contrary to his own words, and ful expressions.</p>
+            <p>Therefore they pervert, and annihilate the Scriptures even the words of Christ.</p>
+            <p>The seraphical spirit of the Millenary <hi>William Farmer</hi> afore<g ref="char:EOLhyphen"/>mentioned will hardly put this argument into his biggest canvas bag, or sack, if he had the greatest shop in <hi>London</hi> ful of sacks.</p>
+            <p>There are Scriptures enough urged before in the appeal to beat down the phrenetical, blaspemous and damnable opinion of the absolute kingdome of the devil on earth, and the <hi>inter regnum</hi> of Ch<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sts
+<pb n="22" facs="tcp:165618:12"/> Kingdom, withou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> both which the Millenary opinion is void, and va<g ref="char:EOLhyphen"/>nisheth.</p>
+            <p>I beseech ye al therefore, whom it concerneth, to weigh wel the words of <hi>Peter</hi> in his second Epistle, cap 3. v. 16, 17. where shewing that in <hi>Pauls</hi> epistles <q>there are some things hard to be understood, and that the unlearned, and unstable pervert, and wrest them, as they do also other Scriptures to their own destruction,</q> he exhorteth the Church in general to beware <q>lest they be plucked away with the error of the wicked, and f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l from their own stedfastnes.</q> I beseech ye also to learn the doctrine of <hi>Paul</hi> in his first Epistle to <hi>Tim.</hi> ca. 1. v. 4, 5, 6, 7. where he admonisheth <q>not to give heed to fables and genealogies, which are endles, which breed questions rather then godly edifying, which is by faith. For the end of the commandement is love out of a pure heart, and of a good conscience, and faith unfained; from the which some have erred, and have turned unto vain jangling.</q>
+            </p>
+            <p>
+               <q>They would be Doctors of the law, and yet understand not what they speak, neither whereof they affirm.</q> Is not this vain jangling to divulge that either in print, or pulpit, which is not necessary, nor conducing to salvation? Is not learning then requisite for the exposi<g ref="char:EOLhyphen"/>tion of hard places of Scripture? Is it necessary to salvation to be<g ref="char:EOLhyphen"/>lieve, or not to believe that Christ shal hereafter reign in his human body personally on earth 1000 years, when he himself said on the Cross, It is finished, and before his passion, I go to my Father, and when thoroughout the whole body of the Scripture there is no such do<g ref="char:EOLhyphen"/>ctrine of faith holden forth unto us, and when Christ saith, <q>
+                  <note n="*" place="margin">Jo. 17. 3.</note>This is life eternal to know thee to be the only very God, and whom thou hast sent, Jesus Christ. <note n="‖" place="margin">Mat. 24. 37, 38, 39, 40, 41, 42. Luk. 17. 26. &amp;c. 2 Thes. 5. 2. 2 Pet. 3. 10. R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>v 3. 3. and 16, 15. Mat. 24. 42. 44. Mar. 13. 33. 35. Luke 12. 39. 40.</note> And when he saith l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kewise that his second comming shal be as sudden and unexpected, as the flood in the dayes of <hi>Noe,</hi> which wil be without al doubt the day of judgement.</q> For at the same time, and in the same place, he saith that <q>several ones shal be taken, and several ones shal be refused.</q>
+               <hi>Paul, Peter,</hi> and <hi>John</hi> in his Revelations say that <q>Christ shal come like a thief in the night,</q> and his own words in <hi>Matthew, Mark,</hi> and <hi>Luke</hi> concur thereunto. Doth not the Millenary opinion then pervert, and make void all these Scriptures, and no less many of those before cited, as al<g ref="char:EOLhyphen"/>so many of those cited in the appeal? I can but pity them, who are poy<g ref="char:EOLhyphen"/>soned with it, and use the Prophet <hi>Davids</hi> words to them, <hi>Viz.</hi>
+               <q>Why takest thou my covenant in thy mouth, whereas thou hatest to be reformed?</q> Why troublest thou thy self with vain janglings not conducible to faith? And why doest thou trouble the wandring thoughts, and imaginations of the unlearned, unstable, giddy-headed people with such unprofitable dreames, and suppositions, since thou canst never reconcile the words of Christ himself, nor the words of <hi>Paul, Peter,</hi> and <hi>Iohn</hi> touching his secret comming to the last judge<g ref="char:EOLhyphen"/>ment to thine opinion, but doest utterly overthrow them to please thine own phrenetical fancy? To write much wil be to little purpose, because the violent, impenetrable, inflexible spirits of such men, who are dri<g ref="char:EOLhyphen"/>ven, tossed, and carried away with every wind of doctrine, are like wild
+<pb n="23" facs="tcp:165618:12"/> swine, which wil not be turned back being once in a precipitant head<g ref="char:EOLhyphen"/>long cours of running forward, unless they be smitten down, or their legs broken. And the less wil I write now, because I expect in short progress of time to see the miraculous manifestation of Gods infinite power, and providence for the accomplishment of the last wonders of the <note place="margin">See Jer. 16. 14, 15. and 23, 7, 8.</note> world touching the Church to take away all these scruples, and vain janglings: But to make my promise good touching some of the chief places of Scripture, upon which the error of the Millenaries is founded, of which some are, <hi>Re.</hi> 13. 18. and 20. 3, 4, and 21. 16. and the rest I must say something: yet I wil deliver no exposition, position, or suppo<g ref="char:EOLhyphen"/>sition of mine own touching the sense, but lead, and guide by comparing one text with another to what is principally couched therein, which is (time). The words of the 18. v. of the 13. ca: are these, <q>Here is wis<g ref="char:EOLhyphen"/>dom, Let him, that hath understanding count the number of the beast: for it is the number of a man, and his number is 666.</q> The 17. vers of the 21. ca: helpeth to the understanding of this touching the number of a man, The words are these, <q>And he measured the wal thereo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </q> (that is of the holy Jerusalem descending out of heaven from God, mentioned in the 10. vers, with a large description setting out the glory, and beauty thereof continued to the 22. vers) <q>an 144. cubits according to the measure of a man, that is, of the Angel.</q> Was there ever any man an angel but our Lord Christ? was any angel at any time a man but our Lord Christ? Is it not then perspicuous that he is the man, whose mea<g ref="char:EOLhyphen"/>sure is here intended by 144. cubits, and by 12000 furlongs in the pre<g ref="char:EOLhyphen"/>cedent vers the 16, and whose number is to be counted in the 13. ca: for the number of the beast? Can the number 666 be intended to be the years of a natural man, whose age is 70, or 80 years at most for the most part? It may very wel be the number of Christ the man for excellency, who was then numbred by his years when <hi>John</hi> writ his book, hath been ever since and now is, and the rather because the number of the beast is to be counted. Who this beast is, it is evident by divers marks given him in the <hi>Revelation,</hi> and in divers of the Prophets, and Apostles, and is not controverted by any Millenary except Romish, and therefore nothing need to be said touching the marks, but touching the number. Can 666 be the great, and gross number of the beasts time and continuation, when as counting from his rise, which was in the year 666, after Christ (for then he took it as the cardinal letters in his title, <hi>Videlicet, Generalis Dei Vicarius in terris,</hi> in part prove, indeed a mystery) his continuation wil be 1000 years when 1666 is compleated? And it is evident in the 4. v. of the 20. ca: of the <hi>Re.</hi> that 1000 years are the limited extent of his time of persecution, and beheading of men <q>for the witnes of Jesus, and the word of God, which did not worship him, nor his image, whose souls notwithstanding the bodies beheaded, lived and reigned with Christ 1000 years:</q> And the devil is likewise shut up 1000 years in the 3. vers. And the 5. vers reiterateth the 1000. years, making no di<g ref="char:EOLhyphen"/>stinction between the 1000 years of the devils being shut up, and of the beheading of men by the beast, and their souls reigning 1000 years with Christ, thus <hi>Videlicet,</hi>
+               <q>But the rest of the dead men shal not live a<g ref="char:EOLhyphen"/>gain,
+<pb n="24" facs="tcp:165618:13"/> until the 1000 years be finished:</q> this is the first resurrection. Is not this the resurrection of grace, mortification, and a new life? Is not the rest of the dead mens living again at the day of judgement? What hath this last the 1000 years relation to? It hath no relation at al but to the 1000 years afo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e spoken of. Six times in that 20. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Rev.</hi> is the 1000 years reiterated, <hi>Videli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et.</hi> First in the 2. vers, Secondly in the 3. vers relating to the second, touching the binding and shutting up the D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vil, T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irdly in the 4. vers ouching the beheaded souls triumph, Four<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hly in the 5. vers relating to the sane 1000. in the 4. vers, Fifthly in the 6. vers, Sixtly in the 7. vers relating to the 1000. years touching Satans binding, fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st mentioned in the 2. vers, and his being loosed in the 3. vers without any distinction of one from the other, or reference to one above the other. If I should speak of 1000. years with several circumstinces of doing, beeing, or suffering, and then in conclusion in<g ref="char:EOLhyphen"/>for the same 10<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0, relatively with that emphasis (the) without d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stin<g ref="char:EOLhyphen"/>ction of the former several circumstances, every scholar would conceive and say, and so by reason, art, and rule of grammar he must, and ought, that my conclusion had reference to every 1000. aforementioned, and that al were one and the same. Now touching the 21. ca: describing the holy Jerusalem, its measure, and beauty; The 10. vers saith, <q>that it shal descend out of heaven, the 16, that the measure thereof shal be 12000. furlongs and so shal be every way square and equal for height, length, and bredth, and the 17. that the measure of the wal shal be 144 cubits by the measure of a man, that is. of the Angel, and the 22. I saw no Temple therein, for the Lord God almighty, and the Lamb are the Temple of it, and the 23. The City hath no need of the sun, neither of the moon to shine in it: for the glory of God did light it, and the Lamb is the light of it, and the 24. vers saith that the people, which are saved, shal walk in the light of it.</q>
+            </p>
+            <p>He hath a strong Imagination, who supposeth that this holy Jerusalem must be a material city since it must descend from heaven, and must bee 12000. furlongs, which after land measure is 1500. miles square, even in heighth, length, and breadth, and since Gods glory, and the Lamb are the light thereof, and these who shal walk in the light thereof, and the city shal have no need of the light of the sun, or moon.</p>
+            <p>Can it be a material earthly city, which must stind 1000 years, when mortal men men cannot live without the sun and moon, not the earth stand without their influences?</p>
+            <p>It may be a pure, beautiful, holy, undesiled Church walking in the light of the glory of God, and the Lamb, our Lord and Saviour Jesus, who was offered a sacrifice for us al. And the measure of this holy City Jerusalem (which no moderate man wil deny to be intended the Church, because God, and the Lamb are the the temple thereof) may be without al doube the limi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted &amp; prefixed time, when this glorious light of God shal shine because it is bounded by the measure of a man the angel, which can be none other measure, but the measure of Christ, whereof the 144. cubits must be the beginning, and the 12000. furlongs the consummation and uttermost extent. Here is no presumptuous peeping into the secrets of G<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and yet much more might have been said touching his revealed <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> this <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
